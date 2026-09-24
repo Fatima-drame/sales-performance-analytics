@@ -94,6 +94,7 @@ The **top three sales representatives accounted for approximately 54% of total s
 
 The analysis was translated into a **professional recommendations presentation**.
 <img width="1082" height="610" alt="image" src="https://github.com/user-attachments/assets/611bccd1-8b6f-4be9-8026-093d640a7e89" />
+[SALES PERFORMANCE ANALYSIS.pdf](https://github.com/user-attachments/files/32606858/SALES.PERFORMANCE.ANALYSIS.pdf)
 
 
 
