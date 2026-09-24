@@ -1,0 +1,501 @@
+OrderID,OrderDate,Customer Name,Product,Quantity,Unit Price,Sales Rep,Region,Order Status
+1,1/1/2024,john doe,Office Chair,2,150,emma stone,EAST,Completed
+2,2/1/2024,John Doe ,office chair ,1,,Emma Stone ,East,completed 
+3,3/1/2024,MARY SMITH,Desk,3,300,LIAM JONES,West,Completed
+4,1/4/2024,alex brown,Laptop,five,800,Noah White,Wst,Pending
+5,5/1/2024,Alex Brown ,Mouse,2,20,olivia king,South,Completed
+6,6/1/2024,susan lee,Keyboard,,50,Emma Stone ,North,Cancelled
+7,7/1/2024,Susan Lee,Monitor,4,,LIAM JONES,EAST,Completed
+8,1/8/2024,john doe,Desk,1,300,emma stone,eastern,Pending
+9,9/1/2024,MARY SMITH,Laptop,2,800,Noah White,West,Completed
+10,1/10/2024,alex brown,Office Chair,3,150,olivia king,South,completed 
+11,11/1/2024,Alex Brown ,Mouse,1,20,Emma Stone ,East,Completed
+12,12/1/2024,john doe,Keyboard,2,50,LIAM JONES,North,Pending
+13,13/01/2024,Susan Lee,Desk,,five,Noah White,Wst,Completed
+14,14/1/2024,MARY SMITH,Monitor,3,,emma stone,EAST,Cancelled
+15,15-01-2024,alex brown,Laptop,2,800,olivia king,South,Completed
+16,16/1/2024,john doe,office chair ,1,150,Emma Stone ,East,Pending
+17,17/01/2024,Susan Lee,Mouse,2,20,LIAM JONES,West,Completed
+18,18/1/2024,MARY SMITH,Keyboard,five,50,Noah White,North,Completed
+19,19-01-2024,alex brown,Desk,4,300,emma stone,eastern,completed 
+20,20/1/2024,Alex Brown ,Laptop,,800,olivia king,South,Pending
+21,21/1/2024,john doe,Office Chair,3,150,Emma Stone ,EAST,Completed
+22,22/01/2024,MARY SMITH,Mouse,1,20,LIAM JONES,Wst,Cancelled
+23,23/1/2024,Susan Lee,Monitor,2,,Noah White,West,Completed
+24,24-01-2024,alex brown,Keyboard,2,50,emma stone,North,Pending
+25,25/1/2024,john doe,Desk,five,300,olivia king,East,Completed
+26,26/01/2024,MARY SMITH,Laptop,3,800,Emma Stone ,EAST,completed 
+27,27/1/2024,Alex Brown ,Office Chair,1,150,LIAM JONES,South,Completed
+28,28-01-2024,Susan Lee,Mouse,,20,Noah White,Wst,Pending
+29,29/1/2024,john doe,Keyboard,2,50,emma stone,eastern,Completed
+30,30/01/2024,MARY SMITH,Desk,4,300,olivia king,West,Cancelled
+31,31/1/2024,alex brown,Laptop,1,,Emma Stone ,North,Completed
+32,2/1/2024,Alex Brown ,Monitor,3,800,LIAM JONES,EAST,Pending
+33,2/2/2024,john doe,Office Chair,2,150,Noah White,South,Completed
+34,2/3/2024,Susan Lee,Mouse,five,20,emma stone,Wst,completed 
+35,4/2/2024,MARY SMITH,Keyboard,1,50,olivia king,East,Completed
+36,2/5/2024,alex brown,Desk,2,300,Emma Stone ,West,Pending
+37,6/2/2024,john doe,Laptop,3,800,LIAM JONES,North,Completed
+38,2/7/2024,Susan Lee,Office Chair,,150,Noah White,EAST,Cancelled
+39,8/2/2024,MARY SMITH,Mouse,2,20,emma stone,eastern,Completed
+40,2/9/2024,alex brown,Keyboard,4,50,olivia king,South,Pending
+41,10/2/2024,Alex Brown ,Desk,1,300,Emma Stone ,East,Completed
+42,2/11/2024,john doe,Laptop,five,800,LIAM JONES,West,Completed
+43,2/12/2024,Susan Lee,Monitor,2,,Noah White,Wst,Pending
+44,13/02/2024,MARY SMITH,Office Chair,3,150,emma stone,EAST,completed 
+45,14/02/2024,alex brown,Mouse,1,20,olivia king,South,Completed
+46,15/02/2024,john doe,Keyboard,2,50,Emma Stone ,North,Pending
+47,16/02/2024,Susan Lee,Desk,4,300,LIAM JONES,eastern,Completed
+48,17/02/2024,MARY SMITH,Laptop,,800,Noah White,West,Cancelled
+49,18/02/2024,alex brown,Office Chair,2,150,emma stone,East,Completed
+50,19/02/2024,john doe,Mouse,five,20,olivia king,Wst,Pending
+51,20/02/2024,MARY SMITH,Keyboard,1,50,Emma Stone ,EAST,Completed
+52,21/02/2024,alex brown,Desk,3,300,LIAM JONES,West,Pending
+53,22/02/2024,john doe,Laptop,2,800,Noah White,North,Completed
+54,23/02/2024,Susan Lee,Office Chair,1,150,emma stone,eastern,Completed
+55,24/02/2024,MARY SMITH,Mouse,,20,olivia king,South,Cancelled
+56,25/02/2024,alex brown,Keyboard,five,50,Emma Stone ,East,Pending
+57,26/02/2024,john doe,Desk,2,300,LIAM JONES,Wst,Completed
+58,27/02/2024,Susan Lee,Laptop,3,800,Noah White,West,Completed
+59,28/02/2024,MARY SMITH,Monitor,2,,emma stone,North,Pending
+60,29/02/2024,alex brown,Office Chair,4,150,olivia king,EAST,Completed
+61,3/1/2024,john doe,Mouse,1,20,Emma Stone ,East,completed 
+62,3/2/2024,Susan Lee,Keyboard,2,50,LIAM JONES,West,Completed
+63,3/3/2024,MARY SMITH,Desk,five,300,Noah White,Wst,Pending
+64,3/4/2024,alex brown,Laptop,2,800,emma stone,North,Completed
+65,3/5/2024,john doe,Office Chair,3,150,olivia king,South,Completed
+66,3/6/2024,Susan Lee,Mouse,,20,Emma Stone ,East,Pending
+67,3/7/2024,MARY SMITH,Keyboard,4,50,LIAM JONES,West,Completed
+68,3/8/2024,alex brown,Desk,1,300,Noah White,EAST,Cancelled
+69,3/9/2024,john doe,Laptop,five,800,emma stone,eastern,Completed
+70,3/10/2024,Susan Lee,Monitor,2,,olivia king,South,Pending
+71,3/11/2024,MARY SMITH,Office Chair,3,150,Emma Stone ,East,Completed
+72,3/12/2024,alex brown,Mouse,1,20,LIAM JONES,Wst,Completed
+73,13/03/2024,john doe,Keyboard,2,50,Noah White,North,Pending
+74,14/03/2024,Susan Lee,Desk,4,300,emma stone,eastern,Completed
+75,15/03/2024,MARY SMITH,Laptop,,800,olivia king,West,Cancelled
+76,16/03/2024,alex brown,Office Chair,2,150,Emma Stone ,EAST,Completed
+77,17/03/2024,john doe,Mouse,five,20,LIAM JONES,South,Pending
+78,18/03/2024,Susan Lee,Keyboard,1,50,Noah White,East,Completed
+79,19/03/2024,MARY SMITH,Desk,3,300,emma stone,West,Pending
+80,20/03/2024,alex brown,Laptop,2,800,olivia king,North,Completed
+81,21/03/2024,john doe,Office Chair,4,150,Emma Stone ,eastern,Completed
+82,22/03/2024,Susan Lee,Mouse,1,20,LIAM JONES,Wst,Cancelled
+83,23/03/2024,MARY SMITH,Keyboard,2,50,Noah White,EAST,Pending
+84,24/03/2024,alex brown,Desk,five,300,emma stone,South,Completed
+85,25/03/2024,john doe,Laptop,3,800,olivia king,East,Completed
+86,26/03/2024,Susan Lee,Office Chair,,150,Emma Stone ,West,Pending
+87,27/03/2024,MARY SMITH,Mouse,2,20,LIAM JONES,North,Completed
+88,28/03/2024,alex brown,Keyboard,1,50,Noah White,eastern,Completed
+89,29/03/2024,john doe,Desk,4,300,emma stone,Wst,Pending
+90,30/03/2024,Susan Lee,Laptop,2,800,olivia king,EAST,Completed
+91,31/03/2024,MARY SMITH,Monitor,five,,Emma Stone ,East,Cancelled
+92,4/1/2024,alex brown,Office Chair,3,150,LIAM JONES,West,Completed
+93,4/2/2024,john doe,Mouse,1,20,Noah White,North,Pending
+94,4/3/2024,Susan Lee,Keyboard,2,50,emma stone,eastern,Completed
+95,4/4/2024,MARY SMITH,Desk,,300,olivia king,South,Completed
+96,4/5/2024,alex brown,Laptop,4,800,Emma Stone ,East,Pending
+97,4/6/2024,john doe,Office Chair,2,150,LIAM JONES,Wst,Completed
+98,4/7/2024,Susan Lee,Mouse,five,20,Noah White,West,Cancelled
+99,4/8/2024,MARY SMITH,Keyboard,1,50,emma stone,North,Completed
+100,4/9/2024,alex brown,Desk,3,300,olivia king,EAST,Pending
+101,4/10/2024,john doe,Office Chair,2,150,emma stone,EAST,Completed
+102,11/4/2024,John Doe ,office chair ,1,,Emma Stone ,East,completed 
+103,4/12/2024,MARY SMITH,Desk,3,300,LIAM JONES,West,Completed
+104,13/4/2024,alex brown,Laptop,five,800,Noah White,Wst,Pending
+105,14/04/2024,Alex Brown ,Mouse,2,20,olivia king,South,Completed
+106,15/4/2024,susan lee,Keyboard,,50,Emma Stone ,North,Cancelled
+107,16-04-2024,Susan Lee,Monitor,4,,LIAM JONES,EAST,Completed
+108,17/4/2024,john doe,Desk,1,300,emma stone,eastern,Pending
+109,18/04/2024,MARY SMITH,Laptop,2,800,Noah White,West,Completed
+110,19/4/2024,alex brown,Office Chair,3,150,olivia king,South,completed 
+111,20/04/2024,Alex Brown ,Mouse,1,20,Emma Stone ,East,Completed
+112,21/4/2024,john doe,Keyboard,2,50,LIAM JONES,North,Pending
+113,22/04/2024,Susan Lee,Desk,,five,Noah White,Wst,Completed
+114,23/4/2024,MARY SMITH,Monitor,3,,emma stone,EAST,Cancelled
+115,24/04/2024,alex brown,Laptop,2,800,olivia king,South,Completed
+116,25/4/2024,john doe,office chair ,1,150,Emma Stone ,East,Pending
+117,26/04/2024,Susan Lee,Mouse,2,20,LIAM JONES,West,Completed
+118,27/4/2024,MARY SMITH,Keyboard,five,50,Noah White,North,Completed
+119,28/04/2024,alex brown,Desk,4,300,emma stone,eastern,completed 
+120,29/4/2024,Alex Brown ,Laptop,,800,olivia king,South,Pending
+121,30/04/2024,john doe,Office Chair,3,150,Emma Stone ,EAST,Completed
+122,5/1/2024,MARY SMITH,Mouse,1,20,LIAM JONES,Wst,Cancelled
+123,5/2/2024,Susan Lee,Monitor,2,,Noah White,West,Completed
+124,5/3/2024,alex brown,Keyboard,2,50,emma stone,North,Pending
+125,5/4/2024,john doe,Desk,five,300,olivia king,East,Completed
+126,5/5/2024,MARY SMITH,Laptop,3,800,Emma Stone ,EAST,completed 
+127,5/6/2024,Alex Brown ,Office Chair,1,150,LIAM JONES,South,Completed
+128,5/7/2024,Susan Lee,Mouse,,20,Noah White,Wst,Pending
+129,5/8/2024,john doe,Keyboard,2,50,emma stone,eastern,Completed
+130,5/9/2024,MARY SMITH,Desk,4,300,olivia king,West,Cancelled
+131,5/10/2024,alex brown,Laptop,1,,Emma Stone ,North,Completed
+132,5/11/2024,Alex Brown ,Monitor,3,800,LIAM JONES,EAST,Pending
+133,5/12/2024,john doe,Office Chair,2,150,Noah White,South,Completed
+134,13/05/2024,Susan Lee,Mouse,five,20,emma stone,Wst,completed 
+135,14/05/2024,MARY SMITH,Keyboard,1,50,olivia king,East,Completed
+136,15/05/2024,alex brown,Desk,2,300,Emma Stone ,West,Pending
+137,16/05/2024,john doe,Laptop,3,800,LIAM JONES,North,Completed
+138,17/05/2024,Susan Lee,Office Chair,,150,Noah White,EAST,Cancelled
+139,18/05/2024,MARY SMITH,Mouse,2,20,emma stone,eastern,Completed
+140,19/05/2024,alex brown,Keyboard,4,50,olivia king,South,Pending
+141,20/05/2024,Alex Brown ,Desk,1,300,Emma Stone ,East,Completed
+142,21/05/2024,john doe,Laptop,five,800,LIAM JONES,West,Completed
+143,22/05/2024,Susan Lee,Monitor,2,,Noah White,Wst,Pending
+144,23/05/2024,MARY SMITH,Office Chair,3,150,emma stone,EAST,completed 
+145,24/05/2024,alex brown,Mouse,1,20,olivia king,South,Completed
+146,25/05/2024,john doe,Keyboard,2,50,Emma Stone ,North,Pending
+147,26/05/2024,Susan Lee,Desk,4,300,LIAM JONES,eastern,Completed
+148,27/05/2024,MARY SMITH,Laptop,,800,Noah White,West,Cancelled
+149,28/05/2024,alex brown,Office Chair,2,150,emma stone,East,Completed
+150,29/05/2024,john doe,Mouse,five,20,olivia king,Wst,Pending
+151,30/05/2024,MARY SMITH,Keyboard,1,50,Emma Stone ,EAST,Completed
+152,31/05/2024,alex brown,Desk,3,300,LIAM JONES,West,Pending
+153,6/1/2024,john doe,Laptop,2,800,Noah White,North,Completed
+154,6/2/2024,Susan Lee,Office Chair,1,150,emma stone,eastern,Completed
+155,6/3/2024,MARY SMITH,Mouse,,20,olivia king,South,Cancelled
+156,6/4/2024,alex brown,Keyboard,five,50,Emma Stone ,East,Pending
+157,6/5/2024,john doe,Desk,2,300,LIAM JONES,Wst,Completed
+158,6/6/2024,Susan Lee,Laptop,3,800,Noah White,West,Completed
+159,6/7/2024,MARY SMITH,Monitor,2,,emma stone,North,Pending
+160,6/8/2024,alex brown,Office Chair,4,150,olivia king,EAST,Completed
+161,6/9/2024,john doe,Mouse,1,20,Emma Stone ,East,completed 
+162,6/10/2024,Susan Lee,Keyboard,2,50,LIAM JONES,West,Completed
+163,6/11/2024,MARY SMITH,Desk,five,300,Noah White,Wst,Pending
+164,6/12/2024,alex brown,Laptop,2,800,emma stone,North,Completed
+165,13/06/2024,john doe,Office Chair,3,150,olivia king,South,Completed
+166,14/06/2024,Susan Lee,Mouse,,20,Emma Stone ,East,Pending
+167,15/06/2024,MARY SMITH,Keyboard,4,50,LIAM JONES,West,Completed
+168,16/06/2024,alex brown,Desk,1,300,Noah White,EAST,Cancelled
+169,17/06/2024,john doe,Laptop,five,800,emma stone,eastern,Completed
+170,18/06/2024,Susan Lee,Monitor,2,,olivia king,South,Pending
+171,19/06/2024,MARY SMITH,Office Chair,3,150,Emma Stone ,East,Completed
+172,20/06/2024,alex brown,Mouse,1,20,LIAM JONES,Wst,Completed
+173,21/06/2024,john doe,Keyboard,2,50,Noah White,North,Pending
+174,22/06/2024,Susan Lee,Desk,4,300,emma stone,eastern,Completed
+175,23/06/2024,MARY SMITH,Laptop,,800,olivia king,West,Cancelled
+176,24/06/2024,alex brown,Office Chair,2,150,Emma Stone ,EAST,Completed
+177,25/06/2024,john doe,Mouse,five,20,LIAM JONES,South,Pending
+178,26/06/2024,Susan Lee,Keyboard,1,50,Noah White,East,Completed
+179,27/06/2024,MARY SMITH,Desk,3,300,emma stone,West,Pending
+180,28/06/2024,alex brown,Laptop,2,800,olivia king,North,Completed
+181,29/06/2024,john doe,Office Chair,4,150,Emma Stone ,eastern,Completed
+182,30/06/2024,Susan Lee,Mouse,1,20,LIAM JONES,Wst,Cancelled
+183,7/1/2024,MARY SMITH,Keyboard,2,50,Noah White,EAST,Pending
+184,7/2/2024,alex brown,Desk,five,300,emma stone,South,Completed
+185,7/3/2024,john doe,Laptop,3,800,olivia king,East,Completed
+186,7/4/2024,Susan Lee,Office Chair,,150,Emma Stone ,West,Pending
+187,7/5/2024,MARY SMITH,Mouse,2,20,LIAM JONES,North,Completed
+188,7/6/2024,alex brown,Keyboard,1,50,Noah White,eastern,Completed
+189,7/7/2024,john doe,Desk,4,300,emma stone,Wst,Pending
+190,7/8/2024,Susan Lee,Laptop,2,800,olivia king,EAST,Completed
+191,7/9/2024,MARY SMITH,Monitor,five,,Emma Stone ,East,Cancelled
+192,7/10/2024,alex brown,Office Chair,3,150,LIAM JONES,West,Completed
+193,7/11/2024,john doe,Mouse,1,20,Noah White,North,Pending
+194,7/12/2024,Susan Lee,Keyboard,2,50,emma stone,eastern,Completed
+195,13/07/2024,MARY SMITH,Desk,,300,olivia king,South,Completed
+196,14/07/2024,alex brown,Laptop,4,800,Emma Stone ,East,Pending
+197,15/07/2024,john doe,Office Chair,2,150,LIAM JONES,Wst,Completed
+198,16/07/2024,Susan Lee,Mouse,five,20,Noah White,West,Cancelled
+199,17/07/2024,MARY SMITH,Keyboard,1,50,emma stone,North,Completed
+200,18/07/2024,alex brown,Desk,3,300,olivia king,EAST,Pending
+201,19/07/2024,john doe,Office Chair,2,150,Emma Stone,EAST,Completed
+202,20/07/2024,John Doe ,office chair ,1,,Emma Stone ,East,completed 
+203,21/07/2024,MARY SMITH,Desk,3,300,LIAM JONES,West,Completed
+204,22/07/2024,alex brown,Laptop,five,800,Noah White,Wst,Pending
+205,23/07/2024,Alex Brown ,Mouse,2,20,Olivia King,South,Completed
+206,24/07/2024,Susan Lee,Keyboard,,50,Emma Stone ,North,Cancelled
+207,25/07/2024,Susan Lee,Monitor,4,,LIAM JONES,EAST,Completed
+208,26/07/2024,john doe,Desk,1,300,Emma Stone,eastern,Pending
+209,27/07/2024,MARY SMITH,Laptop,2,800,Noah White,West,Completed
+210,28/07/2024,alex brown,Office Chair,3,150,Olivia King,South,completed 
+211,29/07/2024,Alex Brown ,Mouse,1,20,Emma Stone ,East,Completed
+212,30/07/2024,john doe,Keyboard,2,50,LIAM JONES,North,Pending
+213,31/07/2024,Susan Lee,Desk,,five,Noah White,Wst,Completed
+214,8/1/2024,MARY SMITH,Monitor,3,,Emma Stone,EAST,Cancelled
+215,8/2/2024,alex brown,Laptop,2,800,Olivia King,South,Completed
+216,8/3/2024,john doe,office chair ,1,150,Emma Stone ,East,Pending
+217,8/4/2024,Susan Lee,Mouse,2,20,LIAM JONES,West,Completed
+218,8/5/2024,MARY SMITH,Keyboard,five,50,Noah White,North,Completed
+219,8/6/2024,alex brown,Desk,4,300,Emma Stone,eastern,completed 
+220,8/7/2024,Alex Brown ,Laptop,,800,Olivia King,South,Pending
+221,8/8/2024,john doe,Office Chair,3,150,Emma Stone ,EAST,Completed
+222,8/9/2024,MARY SMITH,Mouse,1,20,LIAM JONES,Wst,Cancelled
+223,8/10/2024,Susan Lee,Monitor,2,,Noah White,West,Completed
+224,8/11/2024,alex brown,Keyboard,2,50,Emma Stone,North,Pending
+225,8/12/2024,john doe,Desk,five,300,Olivia King,East,Completed
+226,13/08/2024,MARY SMITH,Laptop,3,800,Emma Stone ,EAST,completed 
+227,14/08/2024,Alex Brown ,Office Chair,1,150,LIAM JONES,South,Completed
+228,15/08/2024,Susan Lee,Mouse,,20,Noah White,Wst,Pending
+229,16/08/2024,john doe,Keyboard,2,50,Emma Stone,eastern,Completed
+230,17/08/2024,MARY SMITH,Desk,4,300,Olivia King,West,Cancelled
+231,18/08/2024,alex brown,Laptop,1,,Emma Stone ,North,Completed
+232,19/08/2024,Alex Brown ,Monitor,3,800,LIAM JONES,EAST,Pending
+233,20/08/2024,john doe,Office Chair,2,150,Noah White,South,Completed
+234,21/08/2024,Susan Lee,Mouse,five,20,Emma Stone,Wst,completed 
+235,22/08/2024,MARY SMITH,Keyboard,1,50,Olivia King,East,Completed
+236,23/08/2024,alex brown,Desk,2,300,Emma Stone ,West,Pending
+237,24/08/2024,john doe,Laptop,3,800,LIAM JONES,North,Completed
+238,25/08/2024,Susan Lee,Office Chair,,150,Noah White,EAST,Cancelled
+239,26/08/2024,MARY SMITH,Mouse,2,20,Emma Stone,eastern,Completed
+240,27/08/2024,alex brown,Keyboard,4,50,Olivia King,South,Pending
+241,28/08/2024,Alex Brown ,Desk,1,300,Emma Stone ,East,Completed
+242,29/08/2024,john doe,Laptop,five,800,LIAM JONES,West,Completed
+243,30/08/2024,Susan Lee,Monitor,2,,Noah White,Wst,Pending
+244,31/08/2024,MARY SMITH,Office Chair,3,150,Emma Stone,EAST,completed 
+245,9/1/2024,alex brown,Mouse,1,20,Olivia King,South,Completed
+246,9/2/2024,john doe,Keyboard,2,50,Emma Stone ,North,Pending
+247,9/3/2024,Susan Lee,Desk,4,300,LIAM JONES,eastern,Completed
+248,9/4/2024,MARY SMITH,Laptop,,800,Noah White,West,Cancelled
+249,9/5/2024,alex brown,Office Chair,2,150,Emma Stone,East,Completed
+250,9/6/2024,john doe,Mouse,five,20,Olivia King,Wst,Pending
+251,9/7/2024,MARY SMITH,Keyboard,1,50,Emma Stone ,EAST,Completed
+252,9/8/2024,alex brown,Desk,3,300,LIAM JONES,West,Pending
+253,9/9/2024,john doe,Laptop,2,800,Noah White,North,Completed
+254,9/10/2024,Susan Lee,Office Chair,1,150,Emma Stone,eastern,Completed
+255,9/11/2024,MARY SMITH,Mouse,,20,Olivia King,South,Cancelled
+256,9/12/2024,alex brown,Keyboard,five,50,Emma Stone ,East,Pending
+257,13/09/2024,john doe,Desk,2,300,LIAM JONES,Wst,Completed
+258,14/09/2024,Susan Lee,Laptop,3,800,Noah White,West,Completed
+259,15/09/2024,MARY SMITH,Monitor,2,,Emma Stone,North,Pending
+260,16/09/2024,alex brown,Office Chair,4,150,Olivia King,EAST,Completed
+261,17/09/2024,john doe,Mouse,1,20,Emma Stone ,East,completed 
+262,18/09/2024,Susan Lee,Keyboard,2,50,LIAM JONES,West,Completed
+263,19/09/2024,MARY SMITH,Desk,five,300,Noah White,Wst,Pending
+264,20/09/2024,alex brown,Laptop,2,800,Emma Stone,North,Completed
+265,21/09/2024,john doe,Office Chair,3,150,Olivia King,South,Completed
+266,22/09/2024,Susan Lee,Mouse,,20,Emma Stone ,East,Pending
+267,23/09/2024,MARY SMITH,Keyboard,4,50,LIAM JONES,West,Completed
+268,24/09/2024,alex brown,Desk,1,300,Noah White,EAST,Cancelled
+269,25/09/2024,john doe,Laptop,five,800,Emma Stone,eastern,Completed
+270,26/09/2024,Susan Lee,Monitor,2,,Olivia King,South,Pending
+271,27/09/2024,MARY SMITH,Office Chair,3,150,Emma Stone ,East,Completed
+272,28/09/2024,alex brown,Mouse,1,20,LIAM JONES,Wst,Completed
+273,29/09/2024,john doe,Keyboard,2,50,Noah White,North,Pending
+274,30/09/2024,Susan Lee,Desk,4,300,Emma Stone,eastern,Completed
+275,10/1/2024,MARY SMITH,Laptop,,800,Olivia King,West,Cancelled
+276,10/2/2024,alex brown,Office Chair,2,150,Emma Stone ,EAST,Completed
+277,10/3/2024,john doe,Mouse,five,20,LIAM JONES,South,Pending
+278,10/4/2024,Susan Lee,Keyboard,1,50,Noah White,East,Completed
+279,10/5/2024,MARY SMITH,Desk,3,300,Emma Stone,West,Pending
+280,10/6/2024,alex brown,Laptop,2,800,Olivia King,North,Completed
+281,10/7/2024,john doe,Office Chair,4,150,Emma Stone ,eastern,Completed
+282,10/8/2024,Susan Lee,Mouse,1,20,LIAM JONES,Wst,Cancelled
+283,10/9/2024,MARY SMITH,Keyboard,2,50,Noah White,EAST,Pending
+284,10/10/2024,alex brown,Desk,five,300,Emma Stone,South,Completed
+285,10/11/2024,john doe,Laptop,3,800,Olivia King,East,Completed
+286,10/12/2024,Susan Lee,Office Chair,,150,Emma Stone ,West,Pending
+287,13/10/2024,MARY SMITH,Mouse,2,20,LIAM JONES,North,Completed
+288,14/10/2024,alex brown,Keyboard,1,50,Noah White,eastern,Completed
+289,15/10/2024,john doe,Desk,4,300,Emma Stone,Wst,Pending
+290,16/10/2024,Susan Lee,Laptop,2,800,Olivia King,EAST,Completed
+291,17/10/2024,MARY SMITH,Monitor,five,,Emma Stone ,East,Cancelled
+292,18/10/2024,alex brown,Office Chair,3,150,LIAM JONES,West,Completed
+293,19/10/2024,john doe,Mouse,1,20,Noah White,North,Pending
+294,20/10/2024,Susan Lee,Keyboard,2,50,Emma Stone,eastern,Completed
+295,21/10/2024,MARY SMITH,Desk,,300,Olivia King,South,Completed
+296,22/10/2024,alex brown,Laptop,4,800,Emma Stone ,East,Pending
+297,23/10/2024,john doe,Office Chair,2,150,LIAM JONES,Wst,Completed
+298,24/10/2024,Susan Lee,Mouse,five,20,Noah White,West,Cancelled
+299,25/10/2024,MARY SMITH,Keyboard,1,50,Emma Stone,North,Completed
+300,26/10/2024,alex brown,Desk,3,300,Olivia King,EAST,Pending
+301,27/10/2024,john doe,Laptop,2,800,Emma Stone ,East,Completed
+302,28/10/2024,Susan Lee,Office Chair,3,150,LIAM JONES,West,Pending
+303,29/10/2024,MARY SMITH,Mouse,1,20,Noah White,North,Completed
+304,30/10/2024,alex brown,Keyboard,4,50,Emma Stone,EAST,Completed
+305,31/10/2024,john doe,Desk,2,300,Olivia King,South,Pending
+306,11/1/2024,Susan Lee,Laptop,3,800,Emma Stone,eastern,Completed
+307,11/2/2024,MARY SMITH,Monitor,2,,LIAM JONES,West,Cancelled
+308,11/3/2024,alex brown,Office Chair,1,150,Noah White,East,Completed
+309,11/4/2024,john doe,Mouse,5,20,Emma Stone ,North,Pending
+310,11/5/2024,Susan Lee,Keyboard,2,50,Olivia King,South,Completed
+311,11/6/2024,MARY SMITH,Desk,3,300,Emma Stone,EAST,Pending
+312,11/7/2024,alex brown,Laptop,1,800,LIAM JONES,West,Completed
+313,11/8/2024,john doe,Office Chair,2,150,Noah White,eastern,Completed
+314,11/9/2024,Susan Lee,Mouse,4,20,Emma Stone,East,Pending
+315,11/10/2024,MARY SMITH,Keyboard,1,50,Olivia King,North,Completed
+316,11/11/2024,alex brown,Desk,5,300,Emma Stone ,South,Completed
+317,11/12/2024,john doe,Laptop,2,800,LIAM JONES,EAST,Pending
+318,13/11/2024,Susan Lee,Office Chair,3,150,Noah White,West,Completed
+319,14/11/2024,MARY SMITH,Mouse,,20,Emma Stone,eastern,Completed
+320,15/11/2024,alex brown,Keyboard,2,50,Olivia King,East,Pending
+321,16/11/2024,john doe,Desk,3,300,Emma Stone ,North,Completed
+322,17/11/2024,Susan Lee,Laptop,1,800,LIAM JONES,South,Completed
+323,18/11/2024,MARY SMITH,Office Chair,4,150,Noah White,East,Pending
+324,19/11/2024,alex brown,Mouse,2,20,Emma Stone,EAST,Completed
+325,20/11/2024,john doe,Keyboard,5,50,Olivia King,West,Completed
+326,21/11/2024,Susan Lee,Desk,,300,Emma Stone ,North,Pending
+327,22/11/2024,MARY SMITH,Laptop,2,800,LIAM JONES,South,Completed
+328,23/11/2024,alex brown,Office Chair,1,150,Noah White,eastern,Completed
+329,24/11/2024,john doe,Mouse,3,20,Emma Stone,East,Pending
+330,25/11/2024,Susan Lee,Keyboard,2,50,Olivia King,North,Completed
+331,26/11/2024,MARY SMITH,Desk,4,300,Emma Stone ,South,Completed
+332,27/11/2024,alex brown,Laptop,,800,LIAM JONES,EAST,Pending
+333,28/11/2024,john doe,Office Chair,2,150,Noah White,West,Completed
+334,29/11/2024,Susan Lee,Mouse,1,20,Emma Stone,eastern,Completed
+335,30/11/2024,MARY SMITH,Keyboard,5,50,Olivia King,East,Pending
+336,12/1/2024,alex brown,Desk,3,300,Emma Stone ,North,Completed
+337,12/2/2024,john doe,Laptop,2,800,LIAM JONES,South,Completed
+338,12/3/2024,Susan Lee,Office Chair,4,150,Noah White,EAST,Pending
+339,12/4/2024,MARY SMITH,Mouse,2,20,Emma Stone,East,Completed
+340,12/5/2024,alex brown,Keyboard,1,50,Olivia King,West,Completed
+341,12/6/2024,john doe,Desk,5,300,Emma Stone ,North,Pending
+342,12/7/2024,Susan Lee,Laptop,3,800,LIAM JONES,South,Completed
+343,12/8/2024,MARY SMITH,Office Chair,2,150,Noah White,EAST,Completed
+344,12/9/2024,alex brown,Mouse,4,20,Emma Stone,eastern,Pending
+345,12/10/2024,john doe,Keyboard,1,50,Olivia King,East,Completed
+346,12/11/2024,Susan Lee,Desk,2,300,Emma Stone ,West,Completed
+347,12/12/2024,MARY SMITH,Laptop,3,800,LIAM JONES,North,Pending
+348,13/12/2024,alex brown,Office Chair,,150,Noah White,South,Completed
+349,14/12/2024,john doe,Mouse,2,20,Emma Stone,East,Completed
+350,15/12/2024,Susan Lee,Keyboard,5,50,Olivia King,EAST,Pending
+351,16/12/2024,MARY SMITH,Desk,1,300,Emma Stone ,North,Completed
+352,17/12/2024,alex brown,Laptop,4,800,LIAM JONES,West,Pending
+353,18/12/2024,john doe,Office Chair,2,150,Noah White,eastern,Completed
+354,19/12/2024,Susan Lee,Mouse,3,20,Emma Stone,East,Completed
+355,20/12/2024,MARY SMITH,Keyboard,2,50,Olivia King,North,Pending
+356,21/12/2024,alex brown,Desk,5,300,Emma Stone ,South,Completed
+357,22/12/2024,john doe,Laptop,,800,LIAM JONES,EAST,Pending
+358,23/12/2024,Susan Lee,Office Chair,1,150,Noah White,East,Completed
+359,24/12/2024,MARY SMITH,Mouse,2,20,Emma Stone,eastern,Completed
+360,25/12/2024,alex brown,Keyboard,4,50,Olivia King,West,Pending
+361,26/12/2024,john doe,Desk,3,300,Emma Stone ,North,Completed
+362,27/12/2024,Susan Lee,Laptop,2,800,LIAM JONES,South,Completed
+363,28/12/2024,MARY SMITH,Office Chair,1,150,Noah White,EAST,Pending
+364,29/12/2024,alex brown,Mouse,5,20,Emma Stone,East,Completed
+365,30/12/2024,john doe,Keyboard,2,50,Olivia King,West,Completed
+366,31/12/2024,Susan Lee,Desk,3,300,Emma Stone ,North,Pending
+367,1/1/2025,MARY SMITH,Laptop,2,800,LIAM JONES,South,Completed
+368,1/2/2025,alex brown,Office Chair,4,150,Noah White,East,Completed
+369,1/3/2025,john doe,Mouse,1,20,Emma Stone,eastern,Pending
+370,1/4/2025,Susan Lee,Keyboard,5,50,Olivia King,East,Completed
+371,1/5/2025,MARY SMITH,Desk,2,300,Emma Stone ,West,Completed
+372,1/6/2025,alex brown,Laptop,3,800,LIAM JONES,North,Pending
+373,1/7/2025,john doe,Office Chair,1,150,Noah White,South,Completed
+374,1/8/2025,Susan Lee,Mouse,4,20,Emma Stone,East,Completed
+375,1/9/2025,MARY SMITH,Keyboard,2,50,Olivia King,EAST,Pending
+376,1/10/2025,alex brown,Desk,5,300,Emma Stone ,North,Completed
+377,1/11/2025,john doe,Laptop,2,800,LIAM JONES,West,Pending
+378,1/12/2025,Susan Lee,Office Chair,3,150,Noah White,eastern,Completed
+379,13/01/2025,MARY SMITH,Mouse,1,20,Emma Stone,East,Completed
+380,14/01/2025,alex brown,Keyboard,2,50,Olivia King,North,Pending
+381,15/01/2025,john doe,Desk,4,300,Emma Stone ,South,Completed
+382,16/01/2025,Susan Lee,Laptop,,800,LIAM JONES,EAST,Pending
+383,17/01/2025,MARY SMITH,Office Chair,2,150,Noah White,East,Completed
+384,18/01/2025,alex brown,Mouse,5,20,Emma Stone,eastern,Completed
+385,19/01/2025,john doe,Keyboard,2,50,Olivia King,West,Pending
+386,20/01/2025,Susan Lee,Desk,3,300,Emma Stone ,North,Completed
+387,21/01/2025,MARY SMITH,Laptop,2,800,LIAM JONES,South,Completed
+388,22/01/2025,alex brown,Office Chair,1,150,Noah White,EAST,Pending
+389,23/01/2025,john doe,Mouse,4,20,Emma Stone,East,Completed
+390,24/01/2025,Susan Lee,Keyboard,2,50,Olivia King,West,Completed
+391,25/01/2025,MARY SMITH,Desk,5,300,Emma Stone ,North,Pending
+392,26/01/2025,alex brown,Laptop,3,800,LIAM JONES,South,Completed
+393,27/01/2025,john doe,Office Chair,2,150,Noah White,eastern,Completed
+394,28/01/2025,Susan Lee,Mouse,1,20,Emma Stone,East,Pending
+395,29/01/2025,MARY SMITH,Keyboard,4,50,Olivia King,North,Completed
+396,30/01/2025,alex brown,Desk,2,300,Emma Stone ,South,Completed
+397,31/01/2025,john doe,Laptop,5,800,LIAM JONES,EAST,Pending
+398,2/1/2025,Susan Lee,Office Chair,3,150,Noah White,East,Completed
+399,2/2/2025,MARY SMITH,Mouse,2,20,Emma Stone,eastern,Completed
+400,2/3/2025,alex brown,Keyboard,1,50,Olivia King,West,Pending
+401,2/4/2025,john doe,Desk,2,300,Emma Stone ,North,Completed
+402,2/5/2025,Susan Lee,Laptop,3,800,LIAM JONES,South,Pending
+403,2/6/2025,MARY SMITH,Office Chair,1,150,Noah White,EAST,Completed
+404,2/7/2025,alex brown,Mouse,4,20,Emma Stone,East,Completed
+405,2/8/2025,john doe,Keyboard,2,50,Olivia King,West,Pending
+406,2/9/2025,Susan Lee,Desk,5,300,Emma Stone ,North,Completed
+407,2/10/2025,MARY SMITH,Laptop,2,800,LIAM JONES,South,Completed
+408,2/11/2025,alex brown,Office Chair,3,150,Noah White,eastern,Pending
+409,2/12/2025,john doe,Mouse,1,20,Emma Stone,East,Completed
+410,13/02/2025,Susan Lee,Keyboard,4,50,Olivia King,North,Completed
+411,14/02/2025,MARY SMITH,Desk,2,300,Emma Stone ,South,Pending
+412,15/02/2025,alex brown,Laptop,3,800,LIAM JONES,EAST,Completed
+413,16/02/2025,john doe,Office Chair,2,150,Noah White,East,Completed
+414,17/02/2025,Susan Lee,Mouse,5,20,Emma Stone,eastern,Pending
+415,18/02/2025,MARY SMITH,Keyboard,1,50,Olivia King,West,Completed
+416,19/02/2025,alex brown,Desk,4,300,Emma Stone ,North,Completed
+417,20/02/2025,john doe,Laptop,2,800,LIAM JONES,South,Pending
+418,21/02/2025,Susan Lee,Office Chair,3,150,Noah White,EAST,Completed
+419,22/02/2025,MARY SMITH,Mouse,2,20,Emma Stone,East,Completed
+420,23/02/2025,alex brown,Keyboard,5,50,Olivia King,North,Pending
+421,24/02/2025,john doe,Desk,1,300,Emma Stone ,South,Completed
+422,25/02/2025,Susan Lee,Laptop,4,800,LIAM JONES,EAST,Pending
+423,26/02/2025,MARY SMITH,Office Chair,2,150,Noah White,East,Completed
+424,27/02/2025,alex brown,Mouse,3,20,Emma Stone,eastern,Completed
+425,28/02/2025,john doe,Keyboard,2,50,Olivia King,West,Pending
+426,3/1/2025,Susan Lee,Desk,5,300,Emma Stone ,North,Completed
+427,3/2/2025,MARY SMITH,Laptop,3,800,LIAM JONES,South,Completed
+428,3/3/2025,alex brown,Office Chair,1,150,Noah White,EAST,Pending
+429,3/4/2025,john doe,Mouse,4,20,Emma Stone,East,Completed
+430,3/5/2025,Susan Lee,Keyboard,2,50,Olivia King,North,Completed
+431,3/6/2025,MARY SMITH,Desk,3,300,Emma Stone ,South,Pending
+432,3/7/2025,alex brown,Laptop,2,800,LIAM JONES,East,Completed
+433,3/8/2025,john doe,Office Chair,4,150,Noah White,eastern,Completed
+434,3/9/2025,Susan Lee,Mouse,1,20,Emma Stone,East,Pending
+435,3/10/2025,MARY SMITH,Keyboard,5,50,Olivia King,West,Completed
+436,3/11/2025,alex brown,Desk,2,300,Emma Stone ,North,Completed
+437,3/12/2025,john doe,Laptop,3,800,LIAM JONES,South,Pending
+438,13/03/2025,Susan Lee,Office Chair,2,150,Noah White,EAST,Completed
+439,14/03/2025,MARY SMITH,Mouse,4,20,Emma Stone,East,Completed
+440,15/03/2025,alex brown,Keyboard,1,50,Olivia King,North,Pending
+441,16/03/2025,john doe,Desk,5,300,Emma Stone ,South,Completed
+442,17/03/2025,Susan Lee,Laptop,2,800,LIAM JONES,EAST,Pending
+443,18/03/2025,MARY SMITH,Office Chair,3,150,Noah White,East,Completed
+444,19/03/2025,alex brown,Mouse,2,20,Emma Stone,eastern,Completed
+445,20/03/2025,john doe,Keyboard,4,50,Olivia King,West,Pending
+446,21/03/2025,Susan Lee,Desk,1,300,Emma Stone ,North,Completed
+447,22/03/2025,MARY SMITH,Laptop,5,800,LIAM JONES,South,Pending
+448,23/03/2025,alex brown,Office Chair,2,150,Noah White,EAST,Completed
+449,24/03/2025,john doe,Mouse,3,20,Emma Stone,East,Completed
+450,25/03/2025,Susan Lee,Keyboard,2,50,Olivia King,North,Pending
+451,26/03/2025,MARY SMITH,Desk,4,300,Emma Stone ,South,Completed
+452,27/03/2025,alex brown,Laptop,1,800,LIAM JONES,EAST,Pending
+453,28/03/2025,john doe,Office Chair,3,150,Noah White,East,Completed
+454,29/03/2025,Susan Lee,Mouse,2,20,Emma Stone,eastern,Completed
+455,30/03/2025,MARY SMITH,Keyboard,5,50,Olivia King,West,Pending
+456,31/03/2025,alex brown,Desk,1,300,Emma Stone ,North,Completed
+457,4/1/2025,john doe,Laptop,2,800,LIAM JONES,South,Pending
+458,4/2/2025,Susan Lee,Office Chair,4,150,Noah White,EAST,Completed
+459,4/3/2025,MARY SMITH,Mouse,3,20,Emma Stone,East,Completed
+460,4/4/2025,alex brown,Keyboard,2,50,Olivia King,North,Pending
+461,4/5/2025,john doe,Desk,5,300,Emma Stone ,South,Completed
+462,4/6/2025,Susan Lee,Laptop,2,800,LIAM JONES,EAST,Pending
+463,4/7/2025,MARY SMITH,Office Chair,1,150,Noah White,East,Completed
+464,4/8/2025,alex brown,Mouse,4,20,Emma Stone,eastern,Completed
+465,4/9/2025,john doe,Keyboard,3,50,Olivia King,West,Pending
+466,4/10/2025,Susan Lee,Desk,2,300,Emma Stone ,North,Completed
+467,4/11/2025,MARY SMITH,Laptop,5,800,LIAM JONES,South,Pending
+468,4/12/2025,alex brown,Office Chair,3,150,Noah White,EAST,Completed
+469,13/04/2025,john doe,Mouse,1,20,Emma Stone,East,Completed
+470,14/04/2025,Susan Lee,Keyboard,4,50,Olivia King,North,Pending
+471,15/04/2025,MARY SMITH,Desk,2,300,Emma Stone ,South,Completed
+472,16/04/2025,alex brown,Laptop,3,800,LIAM JONES,EAST,Pending
+473,17/04/2025,john doe,Office Chair,2,150,Noah White,East,Completed
+474,18/04/2025,Susan Lee,Mouse,5,20,Emma Stone,eastern,Completed
+475,19/04/2025,MARY SMITH,Keyboard,2,50,Olivia King,West,Pending
+476,20/04/2025,alex brown,Desk,1,300,Emma Stone ,North,Completed
+477,21/04/2025,john doe,Laptop,4,800,LIAM JONES,South,Pending
+478,22/04/2025,Susan Lee,Office Chair,2,150,Noah White,EAST,Completed
+479,23/04/2025,MARY SMITH,Mouse,3,20,Emma Stone,East,Completed
+480,24/04/2025,alex brown,Keyboard,1,50,Olivia King,North,Pending
+481,25/04/2025,john doe,Desk,5,300,Emma Stone ,South,Completed
+482,26/04/2025,Susan Lee,Laptop,2,800,LIAM JONES,EAST,Pending
+483,27/04/2025,MARY SMITH,Office Chair,4,150,Noah White,East,Completed
+484,28/04/2025,alex brown,Mouse,2,20,Emma Stone,eastern,Completed
+485,29/04/2025,john doe,Keyboard,3,50,Olivia King,West,Pending
+486,30/04/2025,Susan Lee,Desk,2,300,Emma Stone ,North,Completed
+487,5/1/2025,MARY SMITH,Laptop,1,800,LIAM JONES,South,Pending
+488,5/2/2025,alex brown,Office Chair,3,150,Noah White,EAST,Completed
+489,5/3/2025,john doe,Mouse,2,20,Emma Stone,East,Completed
+490,5/4/2025,Susan Lee,Keyboard,5,50,Olivia King,North,Pending
+491,5/5/2025,MARY SMITH,Desk,2,300,Emma Stone ,South,Completed
+492,5/6/2025,alex brown,Laptop,4,800,LIAM JONES,EAST,Pending
+493,5/7/2025,john doe,Office Chair,1,150,Noah White,East,Completed
+494,5/8/2025,Susan Lee,Mouse,3,20,Emma Stone,eastern,Completed
+495,5/9/2025,MARY SMITH,Keyboard,2,50,Olivia King,West,Pending
+496,5/10/2025,alex brown,Desk,5,300,Emma Stone ,North,Completed
+497,5/11/2025,john doe,Laptop,2,800,LIAM JONES,South,Pending
+498,5/12/2025,Susan Lee,Office Chair,4,150,Noah White,EAST,Completed
+499,13/05/2025,MARY SMITH,Mouse,1,20,Emma Stone,East,Completed
+500,14/05/2025,alex brown,Keyboard,3,50,Olivia King,North,Pending
