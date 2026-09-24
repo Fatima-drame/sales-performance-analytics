@@ -1,6 +1,16 @@
 # Sales Performance Analytics
 #### Excel Data Analytics Project | 501 Records | 2024–2025
-Table of Contents
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tools & Technologies](#tools--technologies)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Interactive Dashboard](#interactive-dashboard)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Business Recommendations](#business-recommendations)
+
 ---
 ## Project Overview
 The objective was to identify where profitable sales growth could be improved across:
